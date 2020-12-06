@@ -1,0 +1,64 @@
+.chat-window{
+    height:90%;
+    border:solid 1px rgb(94, 90, 90);
+    background:url('https://fsb.zobj.net/crop.php?r=9au27UA2WIb3izPgqhYGMPD_qyg29PVLuelrFreERI7fjFpHlstK1EXX0Oy-oEjR3syhvAXqzudVeU3jttsP0RR-deleoItUH8fQAmtrx6t94EFHcMPdXKe4SaM0UF0Mlm8ZJ1cQ0aBLOYNTeitxcDKt1aZ_T0K9NYPi088al73gJYk5iBnkXG5qirJg73f3cU2XarriaFHO6ggu');
+    background-repeat:repeat-y;
+    background-size: 100%;
+}
+.chat-app{
+    width:80%;
+    height:80%;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;     
+    margin-top:20px;                                                                                                                                       
+}
+.chat-form{
+    width:100%;
+    margin-top:20px;
+}
+#message{
+    width:100%;
+    height:40px;
+    margin-bottom:5px;
+}
+#send{
+
+    width:100%;
+    height:40px;
+    
+}
+#handle{
+    width:100%;
+    height:40px;
+    margin-bottom:5px;
+    
+}
+.output{
+    width:98%;
+    height:90%;
+    margin:10px 10px 10px 10px;
+    display:flex;
+    flex-direction:column;
+    overflow-y: scroll;
+   
+}
+#user{
+    color:white;
+    text-align:start;
+    background-color: rgb(119, 119, 230);
+    margin-bottom:20px;
+    
+}
+#otherUser{
+    color:white;
+    text-align:end;
+    background-color:rgb(247, 181, 95);
+    margin-bottom:15px;
+}
+
+
+
+ 
+  
+  
